@@ -1,38 +1,13 @@
 [
     {
         "role": "owner",
-        "name": "MinnoxMilo",
-        "link": "https://www.youtube.com/@joedyjrjxminnoxmilo"
+        "name": "Chiken11",
+        "link": "https://www.youtube.com/@GDChiken11"
     },
     {
         "role": "admin",
         "name": "Theorangeamongus",
         "link": "https://www.youtube.com/@Theorangeamongus"
-    },
-    {
-        "role": "admin",
-        "name": "tgof",
-        "link": "*"
-    },
-    {
-        "role": "admin",
-        "name": "Lucasuioptu",
-        "link": "*"
-    },
-    {
-        "role": "admin",
-        "name": "Yarub",
-        "link": "*"
-    },
-    {
-        "role": "admin",
-        "name": "Bryce",
-        "link": "*"
-    },
-    {
-        "role": "admin",
-        "name": "Fdefran",
-        "link": "*"
     },
     {
         "role": "helper",
